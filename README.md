@@ -1,5 +1,5 @@
 # Fokir
-A simple web application created by Html & CSS only
+A simple web application created with Html & CSS only
 
 ![chrome_k33oNymm3L](https://user-images.githubusercontent.com/76254195/185907365-bb927ce7-06e4-4794-b119-a6423a8ac6c9.png)
 ![chrome_g7HqXYvZEX](https://user-images.githubusercontent.com/76254195/185907372-dbd093a3-0080-4cdf-a29e-ae8e19aa0bae.png)
